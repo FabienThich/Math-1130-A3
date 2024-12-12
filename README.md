@@ -4,7 +4,6 @@ This project analyzes review data for movies and TV shows, focusing on attribute
 <br/>
 <br/>
 
-
 ### Introduction
 This project leverages Python and popular libraries like Pandas, Matplotlib, and Seaborn to explore and visualize trends in review data. The dataset includes attributes such as:
 - `helpful` votes (helpful yes/no)
