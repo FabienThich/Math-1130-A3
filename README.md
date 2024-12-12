@@ -1,1 +1,1 @@
-# Amazon Priime Review Analysis with NLTK 
+# Amazon Prime Review Analysis with NLTK 
